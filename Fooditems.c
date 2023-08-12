@@ -26,3 +26,9 @@ int main()
 	return 0;
     }
 }
+
+/* OUTPUT:
+Enter a number (1-5) : 3
+Food item - Pizza 
+Price - Rs.239
+*/
