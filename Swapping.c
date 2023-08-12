@@ -13,3 +13,9 @@ void main()
 	printf("a = %d ",a);
 	printf("b = %d",b);
 }
+
+/* OUTPUT:
+Enter 'a' value : 3
+Enter 'b' value : 24
+After Swapping, a = 24 b = 3
+*/
