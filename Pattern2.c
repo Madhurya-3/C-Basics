@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() 
-{
+{ 
     int n = 5; // Size of the spiral pattern
     int matrix[n][n]; // Matrix to store the spiral pattern
     int value = 1; // Value to be filled in the matrix
